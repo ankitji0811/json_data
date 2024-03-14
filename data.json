@@ -1,0 +1,2470 @@
+{
+    "restaurants": [
+        {
+          "info": {
+            "id": "199663",
+            "name": "Apna Sweets",
+            "cloudinaryImageId": "lxu9imcxhokzm2ff4vxt",
+            "locality": "Bhawar Kuan",
+            "areaName": "Sapna Sangeeta",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+              "North Indian",
+              "Sweets",
+              "Beverages",
+              "Street Food",
+              "South Indian",
+              "Fast Food",
+              "Chinese",
+              "Desserts"
+            ],
+            "avgRating": 4.3,
+            "veg": true,
+            "parentId": "8960",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "10K+",
+            "promoted": true,
+            "adTrackingId": "cid=11698246~p=1~eid=0000018e-3d8e-93c7-13b1-e9bb00c7013a~srvts=1710429737927~45826",
+            "sla": {
+              "deliveryTime": 25,
+              "lastMileTravel": 3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "25-30 mins",
+              "lastMileTravelString": "3.0 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 22:30:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "v1695133679/badges/Pure_Veg111.png",
+                  "description": "pureveg"
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textExtendedBadges": {
+                  
+                },
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "₹75 OFF",
+              "subHeader": "ABOVE ₹249",
+              "discountTag": "FLAT DEAL"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=199663",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "84070",
+            "name": "Gurukripa Restaurant - Sarwate",
+            "cloudinaryImageId": "g5txnz35wlrgbskk3r8y",
+            "locality": "Sarwate",
+            "areaName": "South Tukoganj",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+              "North Indian",
+              "Thalis",
+              "Indian",
+              "Fast Food",
+              "Chinese",
+              "Beverages",
+              "Desserts",
+              "Jain",
+              "Punjabi"
+            ],
+            "avgRating": 4.3,
+            "veg": true,
+            "parentId": "92204",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "10K+",
+            "sla": {
+              "deliveryTime": 21,
+              "lastMileTravel": 2,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "2.0 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 23:59:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "v1695133679/badges/Pure_Veg111.png",
+                  "description": "pureveg"
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                      }
+                    }
+                  ]
+                },
+                "textExtendedBadges": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "₹125 OFF",
+              "subHeader": "ABOVE ₹199",
+              "discountTag": "FLAT DEAL"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=84070",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "331166",
+            "name": "Baskin Robbins - Ice Cream Desserts",
+            "cloudinaryImageId": "85ccae4e3576f9330af102c46ca85395",
+            "locality": "Treasure Island Mall",
+            "areaName": "South Tukoganj",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+              "Desserts",
+              "Ice Cream"
+            ],
+            "avgRating": 4.5,
+            "veg": true,
+            "parentId": "5588",
+            "avgRatingString": "4.5",
+            "totalRatingsString": "50+",
+            "sla": {
+              "deliveryTime": 25,
+              "lastMileTravel": 2.4,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "2.4 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 22:00:00",
+              "opened": true
+            },
+            "badges": {
+              
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textExtendedBadges": {
+                  
+                },
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "₹125 OFF",
+              "subHeader": "ABOVE ₹199",
+              "discountTag": "FLAT DEAL"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=331166",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "172546",
+            "name": "Shree RajaRam Dhaba",
+            "cloudinaryImageId": "nxc6w5pfmeinhicnqb58",
+            "locality": "YN Road",
+            "areaName": "Malwa Mill",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+              "North Indian",
+              "Chinese"
+            ],
+            "avgRating": 4.4,
+            "parentId": "185333",
+            "avgRatingString": "4.4",
+            "totalRatingsString": "1K+",
+            "promoted": true,
+            "adTrackingId": "cid=11832699~p=2~eid=0000018e-3d8e-93c7-13b1-e9bc00c70256~srvts=1710429737927~45826",
+            "sla": {
+              "deliveryTime": 24,
+              "lastMileTravel": 2.9,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "2.9 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 23:45:00",
+              "opened": true
+            },
+            "badges": {
+              
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textExtendedBadges": {
+                  
+                },
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "60% OFF",
+              "subHeader": "UPTO ₹100"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "4.1",
+                "ratingCount": "1K+"
+              },
+              "source": "GOOGLE",
+              "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=172546",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "103357",
+            "name": "Gurukripa Southtukoganj (Dutt)",
+            "cloudinaryImageId": "wbhvshhcwdzvrvuxfpsq",
+            "locality": "South Tukoganj",
+            "areaName": "South Tukoganj",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+              "North Indian",
+              "South Indian",
+              "Chinese",
+              "Snacks",
+              "Thalis",
+              "Desserts",
+              "Punjabi",
+              "Beverages",
+              "Indian",
+              "Jain"
+            ],
+            "avgRating": 4.4,
+            "parentId": "92206",
+            "avgRatingString": "4.4",
+            "totalRatingsString": "10K+",
+            "sla": {
+              "deliveryTime": 24,
+              "lastMileTravel": 2.5,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "2.5 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-15 00:30:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "v1695133679/badges/Pure_Veg111.png",
+                  "description": "pureveg"
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                      }
+                    }
+                  ]
+                },
+                "textExtendedBadges": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "₹125 OFF",
+              "subHeader": "ABOVE ₹199",
+              "discountTag": "FLAT DEAL"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "4.1",
+                "ratingCount": "10K+"
+              },
+              "source": "GOOGLE",
+              "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=103357",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "729652",
+            "name": "Burger Farm",
+            "cloudinaryImageId": "670695b88d5cf2fcb2e3c135ceb2f71f",
+            "locality": "Street no 1",
+            "areaName": "South Tukoganj",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+              "Burgers",
+              "Fast Food"
+            ],
+            "avgRating": 4.5,
+            "veg": true,
+            "parentId": "4660",
+            "avgRatingString": "4.5",
+            "totalRatingsString": "500+",
+            "sla": {
+              "deliveryTime": 27,
+              "lastMileTravel": 3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "25-30 mins",
+              "lastMileTravelString": "3.0 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-15 04:00:00",
+              "opened": true
+            },
+            "badges": {
+              
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {
+                  
+                },
+                "textExtendedBadges": {
+                  
+                },
+                "textBased": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "₹125 OFF",
+              "subHeader": "ABOVE ₹199",
+              "discountTag": "FLAT DEAL"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=729652",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "70369",
+            "name": "Saify Hotel",
+            "cloudinaryImageId": "qrgq4mxvuy2pz3t1wui2",
+            "locality": "Rajwada",
+            "areaName": "Siyaganj",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+              "North Indian",
+              "Mughlai",
+              "Biryani"
+            ],
+            "avgRating": 4.2,
+            "parentId": "175638",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "10K+",
+            "promoted": true,
+            "adTrackingId": "cid=11724533~p=3~eid=0000018e-3d8e-93c7-13b1-e9bd00c70319~srvts=1710429737927~45826",
+            "sla": {
+              "deliveryTime": 17,
+              "lastMileTravel": 0.9,
+              "serviceability": "SERVICEABLE",
+              "slaString": "15-20 mins",
+              "lastMileTravelString": "0.8 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 23:59:00",
+              "opened": true
+            },
+            "badges": {
+              
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  
+                },
+                "textExtendedBadges": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "₹100 OFF",
+              "subHeader": "ABOVE ₹179",
+              "discountTag": "FLAT DEAL"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "3.7",
+                "ratingCount": "1K+"
+              },
+              "source": "GOOGLE",
+              "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=70369",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "65267",
+            "name": "McDonald's",
+            "cloudinaryImageId": "03501c33ecb3a3105124441e541e6fe4",
+            "locality": "South Tukoganj",
+            "areaName": "South Tukoganj",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+              "Burgers",
+              "Beverages",
+              "Cafe",
+              "Desserts"
+            ],
+            "avgRating": 4.3,
+            "parentId": "630",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "10K+",
+            "sla": {
+              "deliveryTime": 26,
+              "lastMileTravel": 2.4,
+              "serviceability": "SERVICEABLE",
+              "slaString": "25-30 mins",
+              "lastMileTravelString": "2.4 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 23:45:00",
+              "opened": true
+            },
+            "badges": {
+              
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  
+                },
+                "textExtendedBadges": {
+                  
+                }
+              }
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=65267",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "303103",
+            "name": "KFC",
+            "cloudinaryImageId": "f01666ac73626461d7455d9c24005cd4",
+            "locality": "RNT Marg",
+            "areaName": "South Tukoganj",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+              "Burgers",
+              "Biryani",
+              "American",
+              "Snacks",
+              "Fast Food"
+            ],
+            "avgRating": 4.3,
+            "parentId": "547",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "5K+",
+            "sla": {
+              "deliveryTime": 23,
+              "lastMileTravel": 2.6,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "2.5 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 23:00:00",
+              "opened": true
+            },
+            "badges": {
+              
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textExtendedBadges": {
+                  
+                },
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "ITEMS",
+              "subHeader": "AT ₹179"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=303103",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "842658",
+            "name": "Bholenath Faryali Center",
+            "cloudinaryImageId": "9fa1b56059c2cc536e6618a8b00a35e9",
+            "locality": "Sk Computers",
+            "areaName": "Sudama Nagar",
+            "costForTwo": "₹100 for two",
+            "cuisines": [
+              "Indian",
+              "Fast Food"
+            ],
+            "avgRating": 4.8,
+            "veg": true,
+            "parentId": "499104",
+            "avgRatingString": "4.8",
+            "totalRatingsString": "4",
+            "promoted": true,
+            "adTrackingId": "cid=11922284~p=4~eid=0000018e-3d8e-93c7-13b1-e9be00c70432~srvts=1710429737927~45826",
+            "sla": {
+              "deliveryTime": 23,
+              "lastMileTravel": 3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "3.0 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 22:30:00",
+              "opened": true
+            },
+            "badges": {
+              
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {
+                  
+                },
+                "textExtendedBadges": {
+                  
+                },
+                "textBased": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "60% OFF",
+              "subHeader": "UPTO ₹100"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "isNewlyOnboarded": true,
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=842658",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "67970",
+            "name": "Subway",
+            "cloudinaryImageId": "63178e3e64d503a479f2a2048a474552",
+            "locality": "Snehnagar",
+            "areaName": "Sapna Sangeeta mall",
+            "costForTwo": "₹350 for two",
+            "cuisines": [
+              "Healthy Food",
+              "Salads",
+              "Snacks",
+              "Desserts",
+              "Beverages"
+            ],
+            "avgRating": 4.2,
+            "parentId": "2",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "5K+",
+            "sla": {
+              "deliveryTime": 25,
+              "lastMileTravel": 3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "25-30 mins",
+              "lastMileTravelString": "3.0 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 23:59:00",
+              "opened": true
+            },
+            "badges": {
+              
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {
+                  
+                },
+                "textExtendedBadges": {
+                  
+                },
+                "textBased": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "₹100 OFF",
+              "subHeader": "ABOVE ₹249",
+              "discountTag": "FLAT DEAL"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=67970",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "67500",
+            "name": "Pishori Restaurant",
+            "cloudinaryImageId": "ntfzr5mgmt9b9f545vtl",
+            "locality": "Sapna Sangeeta Road",
+            "areaName": "Sapna Sangeeta",
+            "costForTwo": "₹450 for two",
+            "cuisines": [
+              "North Indian",
+              "Chinese",
+              "Mughlai",
+              "Punjabi",
+              "Indian"
+            ],
+            "avgRating": 4.2,
+            "parentId": "158125",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "10K+",
+            "sla": {
+              "deliveryTime": 25,
+              "lastMileTravel": 3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "25-30 mins",
+              "lastMileTravelString": "3.0 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 23:59:00",
+              "opened": true
+            },
+            "badges": {
+              
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  
+                },
+                "textExtendedBadges": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "60% OFF",
+              "subHeader": "UPTO ₹120"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "4.0",
+                "ratingCount": "1K+"
+              },
+              "source": "GOOGLE",
+              "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=67500",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "222259",
+            "name": "Hatim's Kebabs and Biryani Corner",
+            "cloudinaryImageId": "byvugqyvkkrgjbln2dhf",
+            "locality": "Khatiwala Tank",
+            "areaName": "Bhawar Kuan",
+            "costForTwo": "₹150 for two",
+            "cuisines": [
+              "North Indian",
+              "Biryani",
+              "Mughlai",
+              "Tandoor"
+            ],
+            "avgRating": 4.1,
+            "parentId": "94407",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "100+",
+            "promoted": true,
+            "adTrackingId": "cid=11644538~p=5~eid=0000018e-3d8e-93c7-13b1-e9bf00c7057d~srvts=1710429737927~45826",
+            "sla": {
+              "deliveryTime": 21,
+              "lastMileTravel": 3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "3.0 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 23:30:00",
+              "opened": true
+            },
+            "badges": {
+              
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textExtendedBadges": {
+                  
+                },
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "60% OFF",
+              "subHeader": "UPTO ₹100"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=222259",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "403809",
+            "name": "Starbucks Coffee",
+            "cloudinaryImageId": "2418209798927d733a50f5d2ebcc2aee",
+            "locality": "Race Course Road",
+            "areaName": "New Palasia",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+              "Beverages",
+              "Cafe",
+              "Snacks",
+              "Desserts",
+              "Bakery",
+              "Ice Cream"
+            ],
+            "avgRating": 4.3,
+            "parentId": "195515",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "500+",
+            "sla": {
+              "deliveryTime": 22,
+              "lastMileTravel": 2.3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "2.2 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 23:59:00",
+              "opened": true
+            },
+            "badges": {
+              
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  
+                },
+                "textExtendedBadges": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "30% OFF",
+              "subHeader": "UPTO ₹75"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=403809",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "770309",
+            "name": "Keventers - Milkshakes & Desserts",
+            "cloudinaryImageId": "1c8517dc925655dfff4d3617bd2191a5",
+            "locality": "Sapna Sangeeta Road",
+            "areaName": "Narendra Chamber",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+              "Beverages",
+              "Ice Cream",
+              "Desserts",
+              "Healthy Food"
+            ],
+            "avgRating": 4.3,
+            "veg": true,
+            "parentId": "268997",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "50+",
+            "sla": {
+              "deliveryTime": 21,
+              "lastMileTravel": 3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "3.0 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 23:00:00",
+              "opened": true
+            },
+            "badges": {
+              
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  
+                },
+                "textExtendedBadges": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "60% OFF",
+              "subHeader": "UPTO ₹100"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "isNewlyOnboarded": true,
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=770309",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "96096",
+            "name": "Dilli Darbar Family Restaurant",
+            "cloudinaryImageId": "tytt3ulewpxjyzt2yipp",
+            "locality": "Old Palasia",
+            "areaName": "Old Palasia",
+            "costForTwo": "₹500 for two",
+            "cuisines": [
+              "Indian"
+            ],
+            "avgRating": 4.1,
+            "parentId": "72853",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "1K+",
+            "promoted": true,
+            "adTrackingId": "cid=11843046~p=6~eid=0000018e-3d8e-93c7-13b1-e9c000c7061e~srvts=1710429737927~45826",
+            "sla": {
+              "deliveryTime": 25,
+              "lastMileTravel": 3.6,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "3.5 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 23:45:00",
+              "opened": true
+            },
+            "badges": {
+              
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  
+                },
+                "textExtendedBadges": {
+                  
+                }
+              }
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "3.6",
+                "ratingCount": "1K+"
+              },
+              "source": "GOOGLE",
+              "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=96096",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "67501",
+            "name": "Shree leela Restaurant",
+            "cloudinaryImageId": "xw9mfmhpj6v7lgvoj6n9",
+            "locality": "Chhoti Gwaltoli",
+            "areaName": "Sarwate Bus Stand",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+              "North Indian",
+              "Thalis",
+              "Punjabi"
+            ],
+            "avgRating": 4.3,
+            "veg": true,
+            "parentId": "22061",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "10K+",
+            "sla": {
+              "deliveryTime": 24,
+              "lastMileTravel": 2,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "2.0 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 23:59:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "v1695133679/badges/Pure_Veg111.png",
+                  "description": "pureveg"
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                      }
+                    }
+                  ]
+                },
+                "textExtendedBadges": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "50% OFF",
+              "subHeader": "UPTO ₹95",
+              "discountTag": "POCKET HERO"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=67501",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "90540",
+            "name": "Vijayshree Sandwich",
+            "cloudinaryImageId": "jvhbkdbh7mi9krqmwnyh",
+            "locality": "Mahalakshmi Nagar",
+            "areaName": "Sarafa",
+            "costForTwo": "₹200 for two",
+            "cuisines": [
+              "Snacks",
+              "Beverages"
+            ],
+            "avgRating": 4.5,
+            "parentId": "223354",
+            "avgRatingString": "4.5",
+            "totalRatingsString": "1K+",
+            "sla": {
+              "deliveryTime": 25,
+              "lastMileTravel": 0.7,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "0.6 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 22:00:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "v1695133679/badges/Pure_Veg111.png",
+                  "description": "pureveg"
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                      }
+                    }
+                  ]
+                },
+                "textExtendedBadges": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "60% OFF",
+              "subHeader": "UPTO ₹100"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "4.3",
+                "ratingCount": "500+"
+              },
+              "source": "GOOGLE",
+              "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=90540",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "75661",
+            "name": "Chick-Grill-A",
+            "cloudinaryImageId": "ehfsr6asaurpkllc6mxa",
+            "locality": "Manik Bagh Road",
+            "areaName": "Bhawar Kuan",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+              "North Indian",
+              "Lebanese",
+              "Biryani",
+              "Kebabs",
+              "Snacks",
+              "Mughlai",
+              "Tandoor"
+            ],
+            "avgRating": 4.1,
+            "parentId": "387424",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "1K+",
+            "promoted": true,
+            "adTrackingId": "cid=11849544~p=7~eid=0000018e-3d8e-93c7-13b1-e9c100c7071c~srvts=1710429737927~45826",
+            "sla": {
+              "deliveryTime": 23,
+              "lastMileTravel": 3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "3.0 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 23:00:00",
+              "opened": true
+            },
+            "badges": {
+              
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textExtendedBadges": {
+                  
+                },
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "₹125 OFF",
+              "subHeader": "ABOVE ₹199",
+              "discountTag": "FLAT DEAL"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=75661",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "79829",
+            "name": "Natural Ice Cream",
+            "cloudinaryImageId": "mjvpnvts8c2v4hatzzus",
+            "locality": "Opp Central Mall",
+            "areaName": "Rnt Marg",
+            "costForTwo": "₹150 for two",
+            "cuisines": [
+              "Ice Cream",
+              "Desserts"
+            ],
+            "avgRating": 4.7,
+            "veg": true,
+            "parentId": "2093",
+            "avgRatingString": "4.7",
+            "totalRatingsString": "1K+",
+            "sla": {
+              "deliveryTime": 18,
+              "lastMileTravel": 1.8,
+              "serviceability": "SERVICEABLE",
+              "slaString": "15-20 mins",
+              "lastMileTravelString": "1.7 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 23:55:00",
+              "opened": true
+            },
+            "badges": {
+              
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  
+                },
+                "textExtendedBadges": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "20% OFF",
+              "subHeader": "UPTO ₹50"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=79829",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "64555",
+            "name": "Cafe Udipi",
+            "cloudinaryImageId": "tokrn4mddawinwyg2igu",
+            "locality": "Manoramaganj",
+            "areaName": "Old Palasia",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+              "South Indian"
+            ],
+            "avgRating": 4.4,
+            "veg": true,
+            "parentId": "54358",
+            "avgRatingString": "4.4",
+            "totalRatingsString": "5K+",
+            "promoted": true,
+            "adTrackingId": "cid=11486404~p=9~eid=0000018e-3d8e-93c7-13b1-e9c300c70906~srvts=1710429737927~45826",
+            "sla": {
+              "deliveryTime": 25,
+              "lastMileTravel": 3.5,
+              "serviceability": "SERVICEABLE",
+              "slaString": "25-30 mins",
+              "lastMileTravelString": "3.5 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 22:00:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "v1695133679/badges/Pure_Veg111.png",
+                  "description": "pureveg"
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textExtendedBadges": {
+                  
+                },
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "60% OFF",
+              "subHeader": "UPTO ₹100"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=64555",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "74045",
+            "name": "NIC Ice Creams",
+            "cloudinaryImageId": "85825a6d74b1059a63a9b688de9f67ce",
+            "locality": "SHRIKRISNA CHAMBER",
+            "areaName": "DHENU MARKET",
+            "costForTwo": "₹120 for two",
+            "cuisines": [
+              "Ice Cream",
+              "Desserts"
+            ],
+            "avgRating": 4.6,
+            "veg": true,
+            "parentId": "6249",
+            "avgRatingString": "4.6",
+            "totalRatingsString": "5K+",
+            "sla": {
+              "deliveryTime": 20,
+              "lastMileTravel": 2.2,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "2.2 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-15 00:00:00",
+              "opened": true
+            },
+            "badges": {
+              
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  
+                },
+                "textExtendedBadges": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "ITEMS",
+              "subHeader": "AT ₹169"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=74045",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "70504",
+            "name": "Ramesh South Indian",
+            "cloudinaryImageId": "ynd31yd3mds6vpxgl2kd",
+            "locality": "Jawaharmargh",
+            "areaName": "Sarafa",
+            "costForTwo": "₹150 for two",
+            "cuisines": [
+              "South Indian",
+              "Indian"
+            ],
+            "avgRating": 4.3,
+            "veg": true,
+            "parentId": "166607",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "1K+",
+            "sla": {
+              "deliveryTime": 25,
+              "lastMileTravel": 1.4,
+              "serviceability": "SERVICEABLE",
+              "slaString": "25-30 mins",
+              "lastMileTravelString": "1.3 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 23:00:00",
+              "opened": true
+            },
+            "badges": {
+              "imageBadges": [
+                {
+                  "imageId": "v1695133679/badges/Pure_Veg111.png",
+                  "description": "pureveg"
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "description": "pureveg",
+                        "imageId": "v1695133679/badges/Pure_Veg111.png"
+                      }
+                    }
+                  ]
+                },
+                "textExtendedBadges": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "₹100 OFF",
+              "subHeader": "ABOVE ₹179",
+              "discountTag": "FLAT DEAL"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=70504",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "86719",
+            "name": "Cafe Coffee Day",
+            "cloudinaryImageId": "b70c7d23d197251b7b315b7e4d8173ae",
+            "locality": "TREASURE ISLAND 2 MALL INDORE MP",
+            "areaName": "South Tukoganj",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+              "Beverages",
+              "Cafe",
+              "Snacks",
+              "Desserts",
+              "Burgers",
+              "Ice Cream",
+              "Bakery",
+              "Fast Food"
+            ],
+            "avgRating": 4.4,
+            "parentId": "1",
+            "avgRatingString": "4.4",
+            "totalRatingsString": "100+",
+            "sla": {
+              "deliveryTime": 22,
+              "lastMileTravel": 1.6,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "1.6 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-14 22:00:00",
+              "opened": true
+            },
+            "badges": {
+              
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  
+                },
+                "textExtendedBadges": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "60% OFF",
+              "subHeader": "UPTO ₹100"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=86719",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "735089",
+            "name": "Martino'z Pizza - Bhawar Kuan",
+            "cloudinaryImageId": "0cc87048cede3de2c85be4368ec88259",
+            "locality": "Professor Colony",
+            "areaName": "Bhawar Kuan",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+              "Pizzas",
+              "Pastas",
+              "Desserts",
+              "Fast Food",
+              "Snacks",
+              "Beverages",
+              "Italian"
+            ],
+            "avgRating": 4.2,
+            "veg": true,
+            "parentId": "461605",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "1K+",
+            "sla": {
+              "deliveryTime": 24,
+              "lastMileTravel": 3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "20-25 mins",
+              "lastMileTravelString": "3.0 km",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2024-03-15 03:00:00",
+              "opened": true
+            },
+            "badges": {
+              
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {
+                  
+                },
+                "imageBased": {
+                  
+                },
+                "textExtendedBadges": {
+                  
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "₹125 OFF",
+              "subHeader": "ABOVE ₹249",
+              "discountTag": "FLAT DEAL"
+            },
+            "loyaltyDiscoverPresentationInfo": {
+              "logoCtx": {
+                "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+              },
+              "freedelMessage": "FREE DELIVERY",
+              "badgeType": "BADGE_TYPE_ONE_LITE"
+            },
+            "differentiatedUi": {
+              "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+              "differentiatedUiMediaDetails": {
+                "lottie": {
+                  
+                },
+                "video": {
+                  
+                }
+              }
+            },
+            "reviewsSummary": {
+              
+            },
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {
+              
+            },
+            "externalRatings": {
+              "aggregatedRating": {
+                "rating": "--"
+              }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+          },
+          "analytics": {
+            
+          },
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=735089",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        }
+      ]
+}
